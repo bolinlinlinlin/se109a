@@ -46,3 +46,7 @@ $ git push origin master
 就可以使用了
 
 ## 完成部分東西可以回推回去
+<img src=".\git.jpg" width = "40%"><br>
+
+# 心得
+git和github真的非常有用,可以找自己想要的資源加以學習,也可以上傳自己的東西紀錄
